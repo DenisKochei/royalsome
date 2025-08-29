@@ -32,7 +32,7 @@ export default function Hero() {
         >
           <span className="text-blue-600 font-semibold">A Life Full of Care</span>
           <h1 className="text-4xl md:text-5xl font-bold leading-tight">
-            Royalsome Helps you <br /> Protect your Family
+           <span classname="text-blue-900">Royalsome</span>  Helps you <br /> Protect your Family
           </h1>
           <p className="text-gray-700 max-w-md">
             We are an independent insurance brokerage agency in the USA. We
